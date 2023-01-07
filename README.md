@@ -1,5 +1,5 @@
 # Tackling the Health Crises in Africa - 10Alytics Hackathon 2022
-<img align="right" alt="Twitter Sentiment Analysis" width="1000" height = "400" src="https://user-images.githubusercontent.com/106287208/187567112-ec593f73-7afe-4ef3-8c80-822591b89038.png">
+<img align="right" alt="Tackling the Health Crises in Africa - 10Alytics Hackathon 2022" width="1000" height = "500" src="https://miro.medium.com/max/720/0*yq9oNi9a9MpDRqNi.webp">
 
 ---
 
@@ -33,7 +33,7 @@ The main focus is on Africa in this dataset and the purpose of this analysis is 
 
 The Dataset used for this analysis was provided by [10Alytics](https://10alytics.io/) and is available at:
 
-- [10Alytics](https://10alytics.io/)
+- [10Alytics hackathon 2022 datasets](https://drive.google.com/drive/folders/1_pPCjVLhIA8_pn5LFSIzMcvjFXT15oM7?usp=share_link)
 
 ---
 
