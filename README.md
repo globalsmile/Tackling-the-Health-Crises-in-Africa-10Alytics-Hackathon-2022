@@ -45,6 +45,7 @@ There are six datasets for this project.:
 
 - Causes of Deaths: The number of deaths and the causes across different countries from 1990 to 2019
 - Number of Deaths by Age Group: Medical Doctors Per 10,000 population: Number of medical doctors per 10,000 medical practitioners in Africa
+- Medical Doctor Per 10000 Population: Number of medical doctors per 10,000 medical practitioners in Africa
 - ISO 3166_country-and-continent-codes-list-csv: The list of sovereign states and dependent territories by continent describing the list of countries by continent
 - World Population: Data from the UN Population Division provides consistent and comparable estimates (and projections) within and across countries over the last century
 - Health Expenditure (% of GDP): Countries expenditure on health as a percentage of GDP
