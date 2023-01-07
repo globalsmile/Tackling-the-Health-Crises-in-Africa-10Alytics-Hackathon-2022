@@ -248,4 +248,4 @@ Overall, brain drain and emigration of medical doctors should be minimized by of
 
 You can interact with the report here: 
 
-[View Report](https://app.powerbi.com/view?r=eyJrIjoiNWVmNDRjNjEtNjZjZC00OGE2LTllYjktMDRjMmMyOTE4ZDYxIiwidCI6IjQ5ODY4YWYzLWNjNWYtNDIxNC04YjdmLTQwZjM3NDY0OWEwOSJ9)
+[View Report](https://app.powerbi.com/view?r=eyJrIjoiMWI3MzYzMmQtNDBkMC00MWRhLTlmNjYtYTQ5MWYwOWFiNWVlIiwidCI6IjQ5ODY4YWYzLWNjNWYtNDIxNC04YjdmLTQwZjM3NDY0OWEwOSJ9)
