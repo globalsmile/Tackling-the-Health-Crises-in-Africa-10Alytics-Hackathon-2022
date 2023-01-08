@@ -168,7 +168,7 @@ The data dictionary containing the features of the data can be found below:
 | 2018 | % of GDP in 2018 |
 | 2019 | % of GDP in 2019 |
 
-The `Causes of Deaths` datasets was checked for duplicates, invalid entries, missing values, incorrect data types and issues from data entry.
+The `Causes of Deaths` dataset was checked for duplicates, invalid entries, missing values, incorrect data types and issues from data entry.
 
 For numeric columns that had null values, I replaced them with ‘0’. No duplicates were found, and incorrect column data types were 
 changed to the appropriate data types, e.g. date column having a number data type was changed to the date data type. 
@@ -205,48 +205,4 @@ I created a visualization showing the trend of deaths in Africa from 1990 to 201
 ![image](https://user-images.githubusercontent.com/106287208/211149892-465fc0b1-e2cf-43a8-bd03-1e4f2960a052.png)
 
 
-- To determine the African countries with the highest number of deaths resulting from health crises, I used a column chart to show top 10 African countries with the highest deaths record. From this Analysis, Nigeria has the highest prevalence of health crisis in Africa with over 49M death cases which contributes 9.80% to the total # of deaths (app. 259M) in Africa.
-
-![image](https://user-images.githubusercontent.com/106287208/211150389-df6b6a7d-5d52-4e94-ab19-0008888f08e5.png)
-
-
-
-- A bar chart representation showed the diseases leading to the most deaths in Africa. With over 33 factors responsible for the death of Africans annually, cardiovascular diseases are the leading cause. Contributing over 33M deaths to the total number of deaths in Africa.
-
-![image](https://user-images.githubusercontent.com/106287208/211150214-c13700a7-3be7-4b49-a69a-76cff35d614f.png)
-
-
-- Further analysis of 5 different age grades showed that children under 5 have suffered the most significant number of deaths (about 42.9% of total death)
-due to the lack of access to adequate medical resources and facilities.
-
-![image](https://user-images.githubusercontent.com/106287208/211150138-6edc20f2-fe4d-4121-bb5f-7d8e38028c1f.png)
-
-
-- The health expenditures of different African countries were compared and the analysis showed that Sierra Leone had the highest health expenditure, whereas Nigeria with the highest number of deaths was missing in the top 10 countries with the highest health expenditures.
-
-![image](https://user-images.githubusercontent.com/106287208/211150436-406280c8-2a77-4eb6-bfbb-e09808fdcd30.png)
-
-
-- Nigeria and Algeria topped the list of countries with the highest number of medical doctors in the timeframe used in this analysis.
-
-![image](https://user-images.githubusercontent.com/106287208/211150513-41883d06-ae1e-4121-b995-6ca40e019c73.png)
-
-
-
----
-
-# Recommendations
-
-Africa is the second most populated continent in the world and this puts it on the verge of losing more of its citizens if adequate infrastructures are not immediately put into place in its health sector. For countries like Nigeria with an increasing population, the budget in the health sector should be increased and medical facilities fully funded to enable access to medical resources by patients.
-
-Much attention should be given to pregnant women to eliminate the chances of their newborns suffering from neonatal disorders and diarrhoea, which are among the leading causes of death in Africa.
-
-Overall, brain drain and emigration of medical doctors should be minimized by offering them competitive salaries and ensuring that the working condition(hospitals) is adequately equipped, safe and conducive for both patients and doctors.
-
----
-
-# Shareable Link
-
-You can interact with the report here: 
-
-[View Report](https://app.powerbi.com/view?r=eyJrIjoiMWI3MzYzMmQtNDBkMC00MWRhLTlmNjYtYTQ5MWYwOWFiNWVlIiwidCI6IjQ5ODY4YWYzLWNjNWYtNDIxNC04YjdmLTQwZjM3NDY0OWEwOSJ9)
+- To determine the African countries with the highest number of deaths resulting from health crises, I used a c
