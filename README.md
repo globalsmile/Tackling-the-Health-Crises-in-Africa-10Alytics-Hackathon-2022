@@ -186,7 +186,7 @@ After the dataset was cleaned and transformed, it was ready to be modeled(using 
 - A `one-to-many (*:1) relationship` was created between the `Country GDP` and the `Country` tables using the `CountryID` column in each of the tables 
 - A `one-to-many (*:1) relationship` was created between the `World Population` and the `Country` tables using the `CountryID` column in each of the tables 
 
-The realtioships formed in the data model is a `Star Schema` and is shown below:
+The relatioship formed in the data model is a `Star Schema` and is shown below:
 
 <img align="right" alt="Data Model" width="1000" height = "400" src="https://user-images.githubusercontent.com/106287208/211148517-aa46241c-140e-41e3-a64b-ae6d01c30f2f.png">
 
